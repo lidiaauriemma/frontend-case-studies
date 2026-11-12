@@ -32,4 +32,4 @@ Modulo dedicato alla gestione del carrello per la piattaforma **Modia Travel**, 
 
 ## 📄 Specifiche di Prodotto
 
-I requisiti di business, i criteri di accettazione e la matrice degli stati applicativi sono descritti in dettaglio nel file [`prd.md`](./prd_reale_persistenza_carrello_modia.md).
+I requisiti di business, i criteri di accettazione e la matrice degli stati applicativi sono descritti in dettaglio nel file [`prd.md`](./prd.md).
