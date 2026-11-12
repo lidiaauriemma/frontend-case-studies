@@ -22,7 +22,7 @@ Modulo dedicato alla gestione del carrello per la piattaforma **Modia Travel**, 
 │   ├── types/cart.types.ts       # Interfacce dei dati e union discriminata StatoCarrello
 │   ├── cart/cart.logic.ts        # Funzione pura di business logic (aggiungiAlCarrello)
 │   └── test/cart.test.ts         # Suite di unit test con Vitest
-├── prd_reale_persistenza_carrello_modia.md # Specifiche funzionali e requisiti tecnici
+├── prd.md                        # Specifiche funzionali e requisiti tecnici
 ├── package.json
 ├── tsconfig.json
 └── README.md
@@ -32,4 +32,4 @@ Modulo dedicato alla gestione del carrello per la piattaforma **Modia Travel**, 
 
 ## 📄 Specifiche di Prodotto
 
-I requisiti di business, i criteri di accettazione e la matrice degli stati applicativi sono descritti in dettaglio nel file [`prd_reale_persistenza_carrello_modia.md`](./prd_reale_persistenza_carrello_modia.md).
+I requisiti di business, i criteri di accettazione e la matrice degli stati applicativi sono descritti in dettaglio nel file [`prd.md`](./prd_reale_persistenza_carrello_modia.md).
