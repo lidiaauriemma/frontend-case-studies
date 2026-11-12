@@ -1,6 +1,6 @@
-# Modia Travel — Business Logic del Carrello & Unit Testing
+# E-Commerce Cart — Business Logic & State Machine
 
-Modulo dedicato alla gestione del carrello per la piattaforma **Modia Travel**, progettato con TypeScript e testato con Vitest. Il focus del progetto è l'adozione di standard architetturali moderni, l'immutabilità dello stato e la prevenzione di errori di sincronizzazione dell'interfaccia utente.
+Modulo dedicato alla gestione del carrello per una piattaforma di e-commerce, progettato con TypeScript e testato con Vitest. Il focus del progetto è l'adozione di standard architetturali moderni, l'immutabilità dello stato e la prevenzione di errori di sincronizzazione dell'interfaccia utente.
 
 ---
 
@@ -17,7 +17,7 @@ Modulo dedicato alla gestione del carrello per la piattaforma **Modia Travel**, 
 ## 📁 Struttura del Modulo
 
 ```text
-01-modia-travel-cart-logic/
+01-ecommerce-cart-state-machine/
 ├── src/
 │   ├── types/cart.types.ts       # Interfacce dei dati e union discriminata StatoCarrello
 │   ├── cart/cart.logic.ts        # Funzione pura di business logic (aggiungiAlCarrello)
