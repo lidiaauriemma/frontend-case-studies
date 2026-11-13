@@ -5,6 +5,7 @@ Un'applicazione front-end pensata per risolvere un problema concreto di gestione
 ---
 
 ## 📌 Lo scenario
+
 All'apertura della pista si creano spesso code all'ingresso. L'operatore al botteghino deve verificare se il pilota è socio del club, se possiede una licenza sportiva attiva e calcolare la quota corretta in pochi istanti.
 
 Questo progetto dimostra come passare da un'esigenza reale sul campo a una progettazione software solida, tracciabile e pronta per essere implementata con **TypeScript, React e Tailwind CSS**.
@@ -15,8 +16,8 @@ Questo progetto dimostra come passare da un'esigenza reale sul campo a una proge
 
 Per garantire ordine e qualità nello sviluppo, il progetto è documentato prima di toccare il codice:
 
-* 📄 **[PRD (Product Requirements Document)](docs/PRD.md)**: analisi del contesto, bisogni reali delle persone, requisiti funzionali e gestione preventiva dei rischi.
-* 📋 **[Backlog e User Stories](docs/BACKLOG.md)**: le 6 funzionalità principali scritte dal punto di vista di chi usa l'app, con criteri di accettazione rigorosi (*Dato che / Quando / Allora*), casi limite gestiti e dipendenze chiare.
+- 📄 **[PRD (Product Requirements Document)](../docs/PRD.md)**: analisi del contesto, bisogni reali delle persone, requisiti funzionali e gestione preventiva dei rischi.
+- 📋 **[Backlog e User Stories](../docs/BACKLOG.md)**: le 6 funzionalità principali scritte dal punto di vista di chi usa l'app, con criteri di accettazione rigorosi (_Dato che / Quando / Allora_), casi limite gestiti e dipendenze chiare.
 
 ---
 
@@ -35,6 +36,7 @@ Per garantire ordine e qualità nello sviluppo, il progetto è documentato prima
 ---
 
 ## 🛠️ Tecnologie previste per l'implementazione
-* **TypeScript** per la tipizzazione sicura di tariffe, stati pilota e codici licenza.
-* **React** per la gestione dello stato a step (wizard fluido e veloce).
-* **Tailwind CSS** per un'interfaccia con pulsanti ampi, contrastati e facili da usare anche su tablet o schermi touch.
+
+- **TypeScript** per la tipizzazione sicura di tariffe, stati pilota e codici licenza.
+- **React** per la gestione dello stato a step (wizard fluido e veloce).
+- **Tailwind CSS** per un'interfaccia con pulsanti ampi, contrastati e facili da usare anche su tablet o schermi touch.
